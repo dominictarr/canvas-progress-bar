@@ -1,11 +1,17 @@
 # canvas-progess
 
+a progress-bar created with canvas.
 
-[![travis](https://travis-ci.org/dominictarr/canvas-progess.png?branch=master)
-](https://travis-ci.org/dominictarr/canvas-progess)
+code taken from this [tutorial](http://www.splashnology.com/article/how-to-create-a-progress-bar-with-html5-canvas/478/)
 
-[![testling](http://ci.testling.com/dominictarr/canvas-progess.png)
-](http://ci.testling.com/dominictarr/canvas-progess)
+``` js
+var bar = requrie('canvas-progress')
+
+bar.progess(0.8) //80%
+
+//bar is a canvas element that you can add to the DOM.
+document.body.appendChild(progess)
+```
 
 ## License
 

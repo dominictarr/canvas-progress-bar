@@ -20,7 +20,7 @@ bar.pngStream().pipe(fs.createWriteStream('progress.png'))
 
 the progress bar looks like this:
 
-![50%](https://github.com/dominictarr/canvas-progess-bar/blob/master/progress.png)
+![50%](https://raw.github.com/dominictarr/canvas-progess-bar/master/progress.png)
 
 
 ## License

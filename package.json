@@ -1,11 +1,11 @@
 {
-  "name": "canvas-progess-bar",
-  "description": "",
+  "name": "canvas-progress-bar",
+  "description": "A progress bar generated with canvas.",
   "version": "1.0.1",
-  "homepage": "https://github.com/dominictarr/canvas-progess-bar",
+  "homepage": "https://github.com/dominictarr/canvas-progress-bar",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dominictarr/canvas-progess-bar.git"
+    "url": "git://github.com/dominictarr/canvas-progress-bar.git"
   },
   "dependencies": {
     "canvas-browserify": "~1.0.3"

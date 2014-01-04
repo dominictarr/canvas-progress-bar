@@ -1,7 +1,7 @@
 {
   "name": "canvas-progress-bar",
   "description": "A progress bar generated with canvas.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/dominictarr/canvas-progress-bar",
   "repository": {
     "type": "git",
